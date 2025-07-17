@@ -1,53 +1,70 @@
-**Team Name:**
+# **Team Name:** 
 
 Team Magistra 
 
+<br/>
 
-**Team Members:**
+**Team Members:** 
 Title	Name	Socials
 •	Product Owner 
 •	Scrum Master 
 •	Developer	Berra OKUDURLAR	https://www.linkedin.com/in/berra-okudurlar/
 
+<br/> 
+
 **Game Name:** 
 
 The Telpher
 
+<br/>
 
-**Game Synopsis:**
+**Game Synopsis:** 
 
 One friend. One telpher. One good date. Taking your close friend Bella to ride the telphers in front of your university is all you need. How difficult could it be, really? 
 
+<br/>
 
-**Game Description:**
+**Game Description:** 
 
 The Telpher is a slice-of-life 2D visual novel developed with the Unity Engine. It is a simple game based on spending time with the main character’s friend, Bella, with one particular date spot being the purpose of the game: The telphers that lead to the mountain in front of their university. As Bella idealizes the spot and procrastinates on the task due to anxiety, the promised telpher date either gets delayed or ends up completely unsatisfactory on the player’s part. Will the player and Bella actually get a satisfactory conclusion?
 
 The Telpher follows a monochromatic aesthetic, using backgrounds that resemble Japanese mangas, as well as cutscenes that resembles manga panels, along with black-and-white silhouettes. It is an earnest attempt at being a true visual novel, instead of being seen as a “deconstruction” of visual novels. Although it might be unsettling at times, there are no twist or serious horror elements in the game, and it stays as a heartfelt slice-of-life story until the very end.
 
+<br/>
 
-**Game Features:**
+**Game Features:** 
 
 •	2D
+
 •	Visual Novel
+
 •	Dating Sim
+
 •	Narrative-driven
+
 •	(TBA)
 
+<br/>
 
 **Target Audience:**
 
 
 •	People who like indie games 
+
 •	People who like visual novels and dating sims 
+
 •	Manga readers
+
 •	People who specifically seek representation in their games, especially in topics such as mental health
 
+<br/>
 
 **Notes to the Jury:**
 
 This project was developed by one person, and the development also started fairly late. The reason behind these decisions will be explained in Sprint 1 & 2 segments of the document.  
 While visual novels are definitely not complicated to make compared to a 3D competitive game, the restraints of writing a narrative game from the scratch without any other programmer to integrate the code or a designer to work on the sprites and backgrounds were definitely serious challenges that needs to be recognized. 
+
+<br/>
 
 **Marketing Plan:**
 
@@ -56,7 +73,7 @@ The Telpher is mostly a passion project that is meant for a more intimate audien
 
 The game will continue to be developed in the future, with more features that would fully utilize the Unity Game Engine, more branches, and possibly by adopting a 90’s pixel art aesthetic, such as the game Tokimeki Memorial. 
 
-
+<br/>
 
 **Sprint 1 & 2:**
 
