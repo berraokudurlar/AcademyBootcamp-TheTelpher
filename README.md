@@ -65,6 +65,7 @@ The Telpher follows a monochromatic aesthetic, using backgrounds that resemble J
 ## **Notes to the Jury:**
 
 This project was developed by one person, and the development also started fairly late. The reason behind these decisions will be explained in Sprint 1 & 2 segments of the document.  
+
 While visual novels are definitely not complicated to make compared to a 3D competitive game, the restraints of writing a narrative game from the scratch without any other programmer to integrate the code or a designer to work on the sprites and backgrounds were definitely serious challenges that needs to be recognized. 
 
 <br/>
