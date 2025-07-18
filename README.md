@@ -5,10 +5,11 @@ Team Magistra
 <br/>
 
 **Team Members:** 
-Title	Name	Socials
-•	Product Owner 
-•	Scrum Master 
-•	Developer	Berra OKUDURLAR	https://www.linkedin.com/in/berra-okudurlar/
+| Title            | Name           | Socials                                  |
+|-----------------|----------------|------------------------------------------|
+| Product Owner    | Berra OKUDURLAR       |            |
+| Scrum Master    |      | [LinkedIn] https://www.linkedin.com/in/berra-okudurlar/      |
+| Developer	     |  |          |
 
 <br/> 
 
