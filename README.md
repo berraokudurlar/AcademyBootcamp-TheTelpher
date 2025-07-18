@@ -7,8 +7,8 @@ Team Magistra
 **Team Members:** 
 | Title            | Name           | Socials                                  |
 |-----------------|----------------|------------------------------------------|
-| Product Owner    | Berra OKUDURLAR       |            |
-| Scrum Master    |      | [LinkedIn] https://www.linkedin.com/in/berra-okudurlar/      |
+| Product Owner    |  |            |
+| Scrum Master    |    Berra OKUDURLAR   | [LinkedIn] https://www.linkedin.com/in/berra-okudurlar/      |
 | Developer	     |  |          |
 
 <br/> 
