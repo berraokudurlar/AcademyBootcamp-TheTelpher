@@ -1,10 +1,12 @@
-# **Team Name:** 
+# **GOOGLE ACADEMY 2025 BOOTCAMP README**
+
+## **Team Name:** 
 
 Team Magistra 
 
 <br/>
 
-**Team Members:** 
+## **Team Members:** 
 | Title            | Name           | Socials                                 |
 |-----------------|----------------|------------------------------------------|
 | Product Owner    |  ↓                  |                      ↓                   | 
@@ -13,19 +15,19 @@ Team Magistra
 
 <br/> 
 
-**Game Name:** 
+## **Game Name:** 
 
 The Telpher
 
 <br/>
 
-**Game Synopsis:** 
+## **Game Synopsis:** 
 
 One friend. One telpher. One good date. Taking your close friend Bella to ride the telphers in front of your university is all you need. How difficult could it be, really? 
 
 <br/>
 
-**Game Description:** 
+## **Game Description:** 
 
 The Telpher is a slice-of-life 2D visual novel developed with the Unity Engine. It is a simple game based on spending time with the main character’s friend, Bella, with one particular date spot being the purpose of the game: The telphers that lead to the mountain in front of their university. As Bella idealizes the spot and procrastinates on the task due to anxiety, the promised telpher date either gets delayed or ends up completely unsatisfactory on the player’s part. Will the player and Bella actually get a satisfactory conclusion?
 
@@ -33,7 +35,7 @@ The Telpher follows a monochromatic aesthetic, using backgrounds that resemble J
 
 <br/>
 
-**Game Features:** 
+## **Game Features:** 
 
 •	2D
 
@@ -47,7 +49,7 @@ The Telpher follows a monochromatic aesthetic, using backgrounds that resemble J
 
 <br/>
 
-**Target Audience:**
+## **Target Audience:**
 
 
 •	People who like indie games 
@@ -60,14 +62,14 @@ The Telpher follows a monochromatic aesthetic, using backgrounds that resemble J
 
 <br/>
 
-**Notes to the Jury:**
+## **Notes to the Jury:**
 
 This project was developed by one person, and the development also started fairly late. The reason behind these decisions will be explained in Sprint 1 & 2 segments of the document.  
 While visual novels are definitely not complicated to make compared to a 3D competitive game, the restraints of writing a narrative game from the scratch without any other programmer to integrate the code or a designer to work on the sprites and backgrounds were definitely serious challenges that needs to be recognized. 
 
 <br/>
 
-**Marketing Plan:**
+## **Marketing Plan:**
 
 
 The Telpher is mostly a passion project that is meant for a more intimate audience. However, that does not mean it would be impossible to advertise and there are no intentions for it. Realistically, The Telpher’s market is a niche and yet loyal audience that prioritizes sincerity in the visual novel medium. Therefore, the sincerity of The Telpher as a true visual novel, rather than a “deconstruction” would be a stand out marketing point. Another realistic strategy is spreading the game through word of mouth by using the resemblance of many similar games, from “Doki Doki Literature Club” to “Slay the Princess”, or “Milk inside a bag of milk inside a bag of milk”.
@@ -76,7 +78,7 @@ The game will continue to be developed in the future, with more features that wo
 
 <br/>
 
-**Sprint 1 & 2:**
+## **Sprint 1 & 2:**
 
 As this solo-development project was allowed as of 08.07.2025, there was technically no “Sprint 1” between the dates of 20.06.2025-06.07.2025 for The Telpher. For that time being, I was the Product Owner of Team 44, and also handled some of the Scrum Master responsibilities. However, due to inactivity and imbalance of responsibility within the team, I was allowed to continue as a solo developer for the rest of the bootcamp. As someone who has unofficially handled the Product Owner role for the Ideathon and GameJam events, this was an unfortunate chain of events.
 
