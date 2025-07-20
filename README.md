@@ -99,7 +99,7 @@ For task management, Asana was used:
 
 <img width="2560" height="1220" alt="Ekran Görüntüsü (934)" src="https://github.com/user-attachments/assets/8d0de48e-0c87-467b-94c5-e29c110840b0" />
 
-_(Backlog is edited according to the "narrative", "project management", "programming", and "creative direction" segments.)_
+_(Backlog is divided to according to the "project management", "programming", and "creative direction" segments. Project management parts carry no weight in the grading system.)_
 
 <br/>
 
@@ -136,13 +136,15 @@ _(Rolling credits which will be used after the true ending.)_
 
 ## **Sprint (1 &) 2 Review:**
 
-The development with the current dialogue system is technically doable, but it is so "foolproof" that it is not really practical or suitable for a longer narrative. It will be scrapped for a better system that uses JSON files, and the save & load functionality will be based around it, so it is currently untouched. 
+•	The development with the current dialogue system is technically doable, but it is so "foolproof" that it is not really practical or suitable for a longer narrative. It will be scrapped for a better system that uses JSON files, and the save & load functionality will be based around it, so it is currently untouched. 
 
-The time and resources are unfortunately limited. The scope of the game, the choices, and the endings unfortunatelly need to be narrowed down. In the future versions, the choices will be so delicate that unlike many visual novels, always making the "right choices" and saying the "right things" will give Bella the impression of being fake, causing the frendship to be broken. However, such features can be only added after the bootcamp. 
+•	The time and resources are unfortunately limited. The scope of the game, the choices, and the endings unfortunatelly need to be narrowed down. In the future versions, the choices will be so delicate that unlike many visual novels, always making the "right choices" and saying the "right things" will give Bella the impression of being fake, causing the frendship to be broken. However, such features can be only added after the bootcamp. 
 
-Although the epilogue needs to be expanded, the only milestone that wasn't achieved is the save and load functions, and it was because they were benched. 40 points were completed for this sprint. 
+•	Although the epilogue needs to be expanded, the only milestone that wasn't achieved is the save and load functions, and it was because they were benched. 40 points were completed for this sprint. 
 
-For the next sprint, a new and more efficent dialogue system will be implemented, probably through Inkle, and the dialogues will be engrained to the new system after getting finished. Save and load functions will be added, as well as the load screen and journal screen for the main menu. The main menu texts will have new animations. A few new backgrounds will be added. 
+•	For the next sprint, a new and more efficent dialogue system will be implemented, probably through Inkle, and the dialogues will be engrained to the new system after getting finished. Save and load functions will be added, as well as the load screen and journal screen for the main menu. The main menu texts will have new animations. A few new backgrounds will be added. 
+
+•	Although more could be done for the project, it was decided that the time limitations both caused by the sprint 1 delay and scheduling conflicts occurring in real life wouldn't make more features possible. 
 
 <br/>
 
