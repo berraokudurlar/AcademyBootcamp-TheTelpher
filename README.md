@@ -108,6 +108,7 @@ For the game’s story, a popular industry tool called “Twine” was used, as 
 <img width="2527" height="1501" alt="Ekran Görüntüsü (936)" src="https://github.com/user-attachments/assets/4d6cfc5d-057a-4a67-9143-ba029d5bf7d6" />
 
 <br/>
+<br/>
 
 Further showcases of the game development could be seen below: 
 
@@ -115,8 +116,8 @@ Further showcases of the game development could be seen below:
 
 <img width="1118" height="1187" alt="Ekran Görüntüsü (937)" src="https://github.com/user-attachments/assets/87ea1caf-4ec9-47e4-97d2-ae0e8d2d6930" />
 
-_(A snippet from the prologue of the game. The writing is prone to change until the very end of the development.)
-_
+_(A snippet from the prologue of the game. The writing is prone to change until the very end of the development.)_
+
 <br/>
 
 <img width="2560" height="1517" alt="Ekran Görüntüsü (939)" src="https://github.com/user-attachments/assets/fb5120d1-9058-4b79-98d1-094b9f8d5110" />
