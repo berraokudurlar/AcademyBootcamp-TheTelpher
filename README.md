@@ -98,9 +98,9 @@ For the art and creative direction, a few backgrounds were edited and decided. I
 For task management, Asana was used:
 
 <img width="2560" height="1220" alt="Ekran Görüntüsü (934)" src="https://github.com/user-attachments/assets/8d0de48e-0c87-467b-94c5-e29c110840b0" />
+_(Backlog is edited according to the "narrative", "project management", "programming", and "creative direction" segments.)_
 
-Backlog is edited according to the "narrative", "project management", "programming", and "creative direction" segments. 
-
+<br/>
 
 For the game’s story, a popular industry tool called “Twine” was used, as it allows writers to choose where the story branches:
 
@@ -108,19 +108,21 @@ For the game’s story, a popular industry tool called “Twine” was used, as 
 
 Further showcases of the game development could be seen below: 
 
-![Uploading resim.<img width="1118" height="1187" alt="Ekran Görüntüsü (937)" src="https://github.com/user-attachments/assets/58e796f4-29fc-4c2b-81ac-838d10694a4a" />
-png…]()
-(A snippet from the prologue of the game. The writing is prone to change until the very end of the development.)
 
+
+<img width="1118" height="1187" alt="Ekran Görüntüsü (937)" src="https://github.com/user-attachments/assets/87ea1caf-4ec9-47e4-97d2-ae0e8d2d6930" />
+_(A snippet from the prologue of the game. The writing is prone to change until the very end of the development.)
+_
+<br/>
 
 <img width="2560" height="1517" alt="Ekran Görüntüsü (939)" src="https://github.com/user-attachments/assets/fb5120d1-9058-4b79-98d1-094b9f8d5110" />
-(Main Menu of the game. New game and quit buttons are functional. Others need additional scenes.)
+_(Main Menu of the game. New game and quit buttons are functional. Others need additional scenes.)_
 
 <img width="2560" height="1534" alt="Ekran Görüntüsü (941)" src="https://github.com/user-attachments/assets/ceec673e-cfc7-4976-9c55-dd2a31b39113" />
-(A snippet from the playable part, where the main character's friend Bella talks. The background is a stock photo image of Istanbul which was edited to look like a manga ground by me.)
+_(A snippet from the playable part, where the main character's friend Bella talks. The background is a stock photo image of Istanbul which was edited to look like a manga ground by me.)_
 
 <img width="2560" height="1516" alt="Ekran Görüntüsü (938)" src="https://github.com/user-attachments/assets/dfa2bee0-ffed-4f8f-9135-5df85c56bf01" />
-(Rolling credits which will be used after the true ending.)
+_(Rolling credits which will be used after the true ending.)_
 
 
 <br/>
@@ -135,6 +137,7 @@ Although the epilogue needs to be expanded, the only milestone that wasn't achie
 
 For the next sprint, a new and more efficent dialogue system will be implemented, probably through Inkle, and the dialogues will be engrained to the new system after getting finished. Save and load functions will be added, as well as the load screen and journal screen for the main menu. The main menu texts will have new animations. A few new backgrounds will be added. 
 
+<br/>
 
 ## **Sprint (1 &) 2 Retrospective:**
 
