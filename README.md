@@ -17,7 +17,7 @@ Team Magistra
 
 ## **Game Name:** 
 
-The Telpher
+The Telpher.
 
 <br/>
 
@@ -79,7 +79,7 @@ The game will continue to be developed in the future, with more features that wo
 
 <br/>
 
-## **Sprint 1 & 2:**
+## **Sprint (1 &) 2:**
 
 As this solo-development project was allowed as of 08.07.2025, there was technically no “Sprint 1” between the dates of 20.06.2025-06.07.2025 for The Telpher. For that time being, I was the Product Owner of Team 44, and also handled some of the Scrum Master responsibilities. However, due to inactivity and imbalance of responsibility within the team, I was allowed to continue as a solo developer for the rest of the bootcamp. As someone who has unofficially handled the Product Owner role for the Ideathon and GameJam events, this was an unfortunate chain of events.
 
@@ -95,9 +95,62 @@ For the narrative choice, I have decided to implement the prologue of the game, 
 
 For the art and creative direction, a few backgrounds were edited and decided. I have also chose to not give characters any definitive forms within Bootcamp, as I’d prefer to commission a real artist who can create accurate designs and emotions. Generative AI was not suitable for the game’s current artistic vision. 
 
-For task management, Asana was used. 
+For task management, Asana was used:
 
-For the game’s story, a popular industry tool called “Twine” was used, as it allows writers to choose where the story branches.  
+<img width="2560" height="1220" alt="Ekran Görüntüsü (934)" src="https://github.com/user-attachments/assets/8d0de48e-0c87-467b-94c5-e29c110840b0" />
+
+Backlog is edited according to the "narrative", "project management", "programming", and "creative direction" segments. 
+
+
+For the game’s story, a popular industry tool called “Twine” was used, as it allows writers to choose where the story branches:
+
+<img width="2527" height="1501" alt="Ekran Görüntüsü (936)" src="https://github.com/user-attachments/assets/4d6cfc5d-057a-4a67-9143-ba029d5bf7d6" />
+
+Further showcases of the game development could be seen below: 
+
+![Uploading resim.<img width="1118" height="1187" alt="Ekran Görüntüsü (937)" src="https://github.com/user-attachments/assets/58e796f4-29fc-4c2b-81ac-838d10694a4a" />
+png…]()
+(A snippet from the prologue of the game. The writing is prone to change until the very end of the development.)
+
+
+<img width="2560" height="1517" alt="Ekran Görüntüsü (939)" src="https://github.com/user-attachments/assets/fb5120d1-9058-4b79-98d1-094b9f8d5110" />
+(Main Menu of the game. New game and quit buttons are functional. Others need additional scenes.)
+
+<img width="2560" height="1534" alt="Ekran Görüntüsü (941)" src="https://github.com/user-attachments/assets/ceec673e-cfc7-4976-9c55-dd2a31b39113" />
+(A snippet from the playable part, where the main character's friend Bella talks. The background is a stock photo image of Istanbul which was edited to look like a manga ground by me.)
+
+<img width="2560" height="1516" alt="Ekran Görüntüsü (938)" src="https://github.com/user-attachments/assets/dfa2bee0-ffed-4f8f-9135-5df85c56bf01" />
+(Rolling credits which will be used after the true ending.)
+
+
+<br/>
+
+## **Sprint (1 &) 2 Review:**
+
+The development with the current dialogue system is technically doable, but it is so "foolproof" that it is not really practical or suitable for a longer narrative. It will be scrapped for a better system that uses JSON files, and the save & load functionality will be based around it, so it is currently untouched. 
+
+The time and resources are unfortunately limited. The scope of the game, the choices, and the endings unfortunatelly need to be narrowed down. In the future versions, the choices will be so delicate that unlike many visual novels, always making the "right choices" and saying the "right things" will give Bella the impression of being fake, causing the frendship to be broken. However, such features can be only added after the bootcamp. 
+
+Although the epilogue needs to be expanded, the only milestone that wasn't achieved is the save and load functions, and it was because they were benched. 40 points were completed for this sprint. 
+
+For the next sprint, a new and more efficent dialogue system will be implemented, probably through Inkle, and the dialogues will be engrained to the new system after getting finished. Save and load functions will be added, as well as the load screen and journal screen for the main menu. The main menu texts will have new animations. A few new backgrounds will be added. 
+
+
+## **Sprint (1 &) 2 Retrospective:**
+
+•	The concept, plot and a prototype aesthetic theme for the project were designed and decided.
+
+•	Prologue and epilogue were written, the story was planned.
+
+•	A splash screen, a rolling credits screen, and a main menu were added with their functionalities and proper scene managements. 
+
+•	The skeleton of the visual novel was programmed, but it will be improved. Currently it has the textbox, character name box, the animation for letters, a working dialogue system, backgrounds, a few simple background animations, music for every scene, and a character sprite.
+
+•	The icon of the game is added. 
+
+
+
+
 
 
 
