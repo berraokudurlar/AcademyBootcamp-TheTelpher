@@ -58,7 +58,7 @@ public class PrologueTimeSequence : MonoBehaviour
         Animator fadeAnimator = fadeIn.GetComponent<Animator>();
         if (fadeAnimator != null)
         {
-            fadeAnimator.SetTrigger("FadeOut");
+            fadeAnimator.SetTrigger("Fade");
             yield return new WaitForSeconds(1.5f);
         }
         else
@@ -133,7 +133,7 @@ public class PrologueTimeSequence : MonoBehaviour
 
         fadeOut.SetActive(true); 
         Animator fadeAnimator = fadeOut.GetComponent<Animator>();
-        fadeAnimator.SetTrigger("FadeOut");
+        fadeAnimator.SetTrigger("Fade");
 
         SceneManager.LoadScene(3);
     }

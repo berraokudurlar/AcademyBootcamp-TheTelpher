@@ -5,9 +5,13 @@ using UnityEngine.SceneManagement;
 
 public class SplashScreen : MonoBehaviour
 {
+
+    [SerializeField] GameObject fadeOut;
+    private Animator fadeOutAnimator;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        fadeOut.SetActive(false);
         StartCoroutine(CreditsTransfer());
     }
 
@@ -20,6 +24,12 @@ public class SplashScreen : MonoBehaviour
     IEnumerator CreditsTransfer()
     {
         yield return new WaitForSeconds(7);
+
+        fadeOut.SetActive(true);
+
+        if (fadeOutAnimator != null)
+            fadeOutAnimator.SetTrigger("Fade");
+
         SceneManager.LoadScene(1);
     }
 }
