@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PrologueTimeSequence : MonoBehaviour
 {
@@ -27,6 +28,7 @@ public class PrologueTimeSequence : MonoBehaviour
     [SerializeField] GameObject mainTextObject;
     [SerializeField] GameObject nextButton;
     [SerializeField] int eventPos = 0; 
+
 
 
     void Update()
@@ -70,6 +72,8 @@ public class PrologueTimeSequence : MonoBehaviour
         {
             bgmSource.Play();
         }
+
+        charName.GetComponent<TMPro.TMP_Text>().text = "NORA";
 
         // Set up textBox and mainTextObject before showing
         textToSpeak = "After our last final exam, Bella and I went to grab some food at the nearest shopping mall.";
@@ -130,6 +134,8 @@ public class PrologueTimeSequence : MonoBehaviour
         fadeOut.SetActive(true); 
         Animator fadeAnimator = fadeOut.GetComponent<Animator>();
         fadeAnimator.SetTrigger("FadeOut");
+
+        SceneManager.LoadScene(3);
     }
 
 
