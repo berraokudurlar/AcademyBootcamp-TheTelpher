@@ -5,11 +5,13 @@ using UnityEngine.SceneManagement;
 public class CreditScroll : MonoBehaviour
 {
     [SerializeField] GameObject FadeOut;
+    [SerializeField] AudioSource creditsMusic;
 
     private Animator fadeAnimator;
 
     void Start()
     {
+        creditsMusic.Play();
         FadeOut.SetActive(false);
         fadeAnimator = FadeOut.GetComponent<Animator>();
         StartCoroutine(CreditsBack());
@@ -21,8 +23,10 @@ public class CreditScroll : MonoBehaviour
 
         FadeOut.SetActive(true);
         fadeAnimator.SetTrigger("Fade");
+        
 
-        yield return new WaitForSeconds(2); 
-        SceneManager.LoadScene(1); 
+        yield return new WaitForSeconds(2);
+        creditsMusic.Stop();
+        SceneManager.LoadScene("Main Menu"); 
     }
 }

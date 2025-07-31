@@ -7,10 +7,13 @@ public class SplashScreen : MonoBehaviour
 {
 
     [SerializeField] GameObject fadeOut;
+    [SerializeField] AudioSource filmRoll;
+
     private Animator fadeOutAnimator;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        filmRoll.Play();
         fadeOut.SetActive(false);
         StartCoroutine(CreditsTransfer());
     }
@@ -23,13 +26,18 @@ public class SplashScreen : MonoBehaviour
 
     IEnumerator CreditsTransfer()
     {
-        yield return new WaitForSeconds(7);
+        
+        yield return new WaitForSeconds(6f);
+
+        filmRoll.Stop();
+
+        yield return new WaitForSeconds(1f);
 
         fadeOut.SetActive(true);
 
         if (fadeOutAnimator != null)
             fadeOutAnimator.SetTrigger("Fade");
 
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene("Main Menu");
     }
 }

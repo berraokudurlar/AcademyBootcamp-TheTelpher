@@ -2023,7 +2023,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1629489097}
   - component: {fileID: 1629489098}
-  - component: {fileID: 1629489099}
   m_Layer: 0
   m_Name: MainMenuControl
   m_TagString: Untagged
@@ -2069,21 +2068,6 @@ MonoBehaviour:
   dayTexture: {fileID: 2800000, guid: 3f54e888f9ea5364a98f14fd0842973b, type: 3}
   eveningTexture: {fileID: 2800000, guid: 338b87bd661b6a54381c901cefe4e6c6, type: 3}
   nightTexture: {fileID: 2800000, guid: 0c8bed00e30cf9b428e8f7ad01494822, type: 3}
---- !u!114 &1629489099
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1629489096}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_FirstSelected: {fileID: 0}
-  m_sendNavigationEvents: 1
-  m_DragThreshold: 10
 --- !u!1 &1639891316
 GameObject:
   m_ObjectHideFlags: 0

@@ -349,6 +349,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   FadeOut: {fileID: 1897941571}
+  creditsMusic: {fileID: 1957201009}
 --- !u!1 &1498803637
 GameObject:
   m_ObjectHideFlags: 0

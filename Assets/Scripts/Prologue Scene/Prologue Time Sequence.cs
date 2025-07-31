@@ -221,7 +221,7 @@ public class PrologueTimeSequence : MonoBehaviour
             case 49: yield return RunDialogue("NORA", "*But for today, Bella continues the rest of the road by herself."); break;
             case 50: yield return RunDialogue("NORA", "*And I only watch her back."); break;
 
-            // Fade out + NORA final
+           
             case 51:
                 fadeOut.SetActive(true);
                 fadeOut.GetComponent<Animator>().SetTrigger("Fade");
@@ -231,6 +231,10 @@ public class PrologueTimeSequence : MonoBehaviour
 
             // Scene ends
             case 52:
+                mainTextObject.SetActive(false);
+                textBox.SetActive(false);
+                nextButton.SetActive(false);
+                yield return new WaitForSeconds(2f);
                 SceneManager.LoadScene("Epilogue"); break;
         }
     }
