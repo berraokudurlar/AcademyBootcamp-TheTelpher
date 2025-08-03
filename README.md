@@ -1,4 +1,4 @@
-<img width="2560" height="1600" alt="resim" src="https://github.com/user-attachments/assets/f94957f0-4037-4314-92f4-1af9d635e75c" /># **GOOGLE ACADEMY 2025 BOOTCAMP PROJECT DOCUMENTATION**
+# **GOOGLE ACADEMY 2025 BOOTCAMP PROJECT DOCUMENTATION**
 
 ## **Team Name:** 
 
@@ -192,11 +192,6 @@ https://github.com/user-attachments/assets/dd439699-3718-4a88-a97d-4dc07e88f4d2
 
 https://github.com/user-attachments/assets/0367b46a-c6ce-4277-816b-cb4feefb7846
 
-
-<br/>
-
-https://github.com/user-attachments/assets/94a41063-6573-41c0-9344-65142b7c808c
-
 <br/>
 
 Here are videos from the current development. They are a bit blurry here because of my uploading style, but they are HD within the game.
@@ -206,7 +201,6 @@ For the dialogue system, it uses many hard-coded cases, which is not the most ef
 <br/>
 
 <img width="2560" height="1373" alt="Ekran Görüntüsü (981)" src="https://github.com/user-attachments/assets/4d7ce7c4-f91f-456f-b17f-3a114b845282" />
-
 
 <br/>
 
