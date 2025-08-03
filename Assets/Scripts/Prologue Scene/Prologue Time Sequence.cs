@@ -21,7 +21,7 @@ public class PrologueTimeSequence : MonoBehaviour
     public int currentCase;
     public float fadeDuration = 1.5f;
     public float fadeOutDelay = 3f;
-    public bool bellaShouldBeVisible = false;
+    
 
     
 
@@ -48,16 +48,9 @@ public class PrologueTimeSequence : MonoBehaviour
     void Update()
     {
         textLength = TextCreator.charCount;
-
-        
-        if (currentCase >= 31 && currentCase < 42)
-        {
-            bellaShouldBeVisible = true;
-        }
-        else
-        {
-            bellaShouldBeVisible = false;
-        }
+           
+      
+       
     }
 
     IEnumerator SetupStart()
@@ -190,19 +183,19 @@ public class PrologueTimeSequence : MonoBehaviour
             
 
 
-            // BELLA x2
+           
             case 33:
                 charBella.SetActive(true);
                 yield return RunDialogue("BELLA", "'I would like to.'"); break;
             case 34:
                 yield return RunDialogue("BELLA", "'I… always wanted to go there…'"); break;
 
-            // NORA x1
+            
             case 35:
-                charBella.SetActive(false);
+                
                 yield return RunDialogue("NORA", "Me too!"); break;
 
-            // Alternating
+            
             case 36: yield return RunDialogue("BELLA", "'…And see what kind of things are there, at the top. But as I procrastinated… and procrastinated… my expectations greatly increased, I started to pursue a perfect, ideal day… and none of the days I had seemed enough. And now… I find myself too scared to go and see.'"); break;
             case 37: yield return RunDialogue("NORA", "*She doesn’t stop there. But her pace cannot be called a continuation either."); break;
             case 38: yield return RunDialogue("BELLA", "'I think that there are things you must do alone. When I think a movie will influence me a lot, I don’t invite anyone at all, and I see them by myself, you know. Things like that.'"); break;

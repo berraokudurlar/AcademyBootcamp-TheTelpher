@@ -38,6 +38,8 @@ public class MainMenuScript : MonoBehaviour
         SetBackgroundBasedOnTime();
 
         StartCoroutine(MainMenu());
+
+        mainMenuSFX.Play();
     }
 
     void SetBackgroundBasedOnTime()
@@ -127,6 +129,6 @@ public class MainMenuScript : MonoBehaviour
             fadeOutAnimator.SetTrigger("Fade");
 
         yield return new WaitForSeconds(2f);
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene("Prologue");
     }
 }
