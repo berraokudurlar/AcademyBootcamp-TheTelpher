@@ -1,4 +1,4 @@
-# **GOOGLE ACADEMY 2025 BOOTCAMP PROJECT DOCUMENTATION**
+<img width="2560" height="1600" alt="resim" src="https://github.com/user-attachments/assets/f94957f0-4037-4314-92f4-1af9d635e75c" /># **GOOGLE ACADEMY 2025 BOOTCAMP PROJECT DOCUMENTATION**
 
 ## **Team Name:** 
 
@@ -141,7 +141,7 @@ _(Rolling credits which will be used after the true ending.)_
 
 •	The time and resources are unfortunately limited. The scope of the game, the choices, and the endings unfortunatelly need to be narrowed down. In the future versions, the choices will be so delicate that unlike many visual novels, always making the "right choices" and saying the "right things" will give Bella the impression of being fake, causing the frendship to be broken. However, such features can be only added after the bootcamp. 
 
-•	Although the epilogue needs to be expanded, the only milestone that wasn't achieved is the save and load functions, and it was because they were benched. 40 points were completed for this sprint. 
+•	Although the epilogue needs to be expanded, the only milestone that wasn't achieved is technically the save and load functions, and it was because they were benched. 40 points were completed for this sprint. 
 
 •	For the next sprint, a new and more efficent dialogue system will be implemented, probably through Inkle, and the dialogues will be engrained to the new system after getting finished. Save and load functions will be added, as well as the load screen and journal screen for the main menu. The main menu texts will have new animations. A few new backgrounds will be added. 
 
@@ -153,13 +153,98 @@ _(Rolling credits which will be used after the true ending.)_
 
 •	The concept, plot and a prototype aesthetic theme for the project were designed and decided.
 
-•	Prologue and epilogue were written, the story was planned.
+•	Prologue was written, the story was planned.
 
 •	A splash screen, a rolling credits screen, and a main menu were added with their functionalities and proper scene managements. 
 
 •	The skeleton of the visual novel was programmed, but it will be improved. Currently it has the textbox, character name box, the animation for letters, a working dialogue system, backgrounds, a few simple background animations, music for every scene, and a character sprite.
 
 •	The icon of the game is added. 
+
+
+<br/>
+
+## **Sprint 3:**
+
+<br/>
+
+Due to foreseen circumstances, (as the solo developer, I was starting an internship in a different city), unfortunately the development was very staggering for this sprint. Using the same metric for the pointing system, 25 points were completed for this sprint, which was not enough to add one of the most vital features such as the CG gallery and save & load features. Why there is a proper scenario that can be experienced by the player, it is definitely very lackluster as a visual novel.
+
+<br/>
+
+<img width="2213" height="1327" alt="Ekran Görüntüsü (973)" src="https://github.com/user-attachments/assets/0dc92ce2-56f1-45e2-9f86-4ca4e3b6d5a6" />
+
+<br/>
+
+The task sheet for the Sprint 3, which was made as a separate Asana board can be seen.
+
+<br/>
+
+A definitive challenge for this sprint was building the game and making sure everything was displayed properly. There were many problems that were caused by anchoring features in the Canvas, and making sure that every element works properly in the screen when the game is built was my utmost priority. This required adjustments to the all scenes built. 
+
+The goal for this sprint was having the miniature version of what I intended as the story for The Telpher. I wanted to include a proper splash screen, main menu, story with all the elements done right, credits, with all of them looking proper and professional. As a "miniature" version, it is actually completed and working.
+
+<br/>
+
+https://github.com/user-attachments/assets/dd439699-3718-4a88-a97d-4dc07e88f4d2
+
+<br/>
+
+https://github.com/user-attachments/assets/0367b46a-c6ce-4277-816b-cb4feefb7846
+
+
+<br/>
+
+https://github.com/user-attachments/assets/94a41063-6573-41c0-9344-65142b7c808c
+
+<br/>
+
+Here are videos from the current development. They are a bit blurry here because of my uploading style, but they are HD within the game.
+
+For the dialogue system, it uses many hard-coded cases, which is not the most efficient, but I still believe that I restructured everything in a way that is easier to put new dialogues and even choice buttons. 
+
+<br/>
+
+<img width="2560" height="1373" alt="Ekran Görüntüsü (981)" src="https://github.com/user-attachments/assets/4d7ce7c4-f91f-456f-b17f-3a114b845282" />
+
+
+<br/>
+
+## **Sprint 3 Review:** 
+
+•	This sprint was a bit fruitless and while a product was provided in bare minimum, it needed more development time. The lack of Sprint 1 was felt the most compared to the Sprint 2. 
+
+•	On the other hand, I learned how it feels like to be a solo-developer, and what are the hardships encountered. Despite the unfinished product, I definitely think that I tried my best and learned a lot in the process.
+
+•	The development of The Telpher will be continued, and this Bootcamp thankfully allowed the opportunity for its initialization. 
+
+•	Taking inspiration from the game NEEDY STREAMER OVERLOAD, the engine will remain as Unity, as it provides more flexibility and features compared to a visual novel engine such as RenPy. GameMaker might be another option for the future if the style of the game changes, but it is undecided.
+
+•	The features that will be added are the ones discussed in the Sprint 1 & 2, allowing the player to come up with their name while keeping "Nora" as the canon name, adding more delicate choices that will use a secret stat system, making cutscenes, adding a map to wander around the city, adding phone messages feature with some of the story happening through texting, possibly hiring artists for the sprites and backgrounds.  
+
+
+
+<br/>
+
+## **Sprint 3 Retrospective:**
+
+•	Prologue was finalized, epilogue was properly written and expanded, both were edited and the story was integrated into the visual novel. 
+
+•	The splash screen, rolling credits screen, and the main menu were polished, mostly aesthetically. 
+
+•	Two episodes of the visual novel were finalized and built, which provides a full and concrete experiences.
+
+•	All of the UI was polished in a way that the built game works properly.
+
+•	Some of the functionality goals set in Sprint 2 were unfortunately not met due to scheduling conflicts that mostly involved an internship.
+
+
+
+
+
+
+
+
 
 
 
