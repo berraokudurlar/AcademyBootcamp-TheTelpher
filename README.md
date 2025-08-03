@@ -186,11 +186,11 @@ The goal for this sprint was having the miniature version of what I intended as 
 
 <br/>
 
-https://github.com/user-attachments/assets/dd439699-3718-4a88-a97d-4dc07e88f4d2
+https://github.com/user-attachments/assets/0367b46a-c6ce-4277-816b-cb4feefb7846
 
 <br/>
 
-https://github.com/user-attachments/assets/0367b46a-c6ce-4277-816b-cb4feefb7846
+https://github.com/user-attachments/assets/dd439699-3718-4a88-a97d-4dc07e88f4d2
 
 <br/>
 
